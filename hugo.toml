@@ -1,0 +1,19 @@
+baseURL = 'https://XbLuzk.github.io/'
+languageCode = 'en-us'
+title = 'XbLuzk'
+theme = 'PaperMod'
+
+[params]
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  defaultTheme = 'auto'
+
+[[menu.main]]
+  name = 'Posts'
+  url = '/posts/'
+  weight = 1
+
+[[menu.main]]
+  name = 'About'
+  url = '/about/'
+  weight = 2

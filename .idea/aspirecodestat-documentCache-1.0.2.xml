@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DocumentCacheState">
+    <option name="caches">
+      <map>
+        <entry key="file://$PROJECT_DIR$/hugo.toml">
+          <value>
+            <DocumentCache>
+              <option name="content" value="example.org/'&#10;locale = 'en-us'&#10;title = 'My New Hugo Project'" />
+              <option name="stat">
+                <StatData>
+                  <option name="onSave">
+                    <Stat>
+                      <option name="ai" value="16" />
+                    </Stat>
+                  </option>
+                </StatData>
+              </option>
+              <option name="updateTime" value="1782202973344" />
+              <option name="uri" value="file://$PROJECT_DIR$/hugo.toml" />
+            </DocumentCache>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/themes/PaperMod/theme.toml">
+          <value>
+            <DocumentCache>
+              <option name="content" value="# theme.toml template for a Hugo theme&#10;# See https://github.com/gohugoio/hugoThemes#themetoml for an example&#10;&#10;name = &quot;PaperMod&quot;&#10;license = &quot;MIT&quot;&#10;licenselink = &quot;https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE&quot;&#10;description = &quot;A fast, clean, responsive Hugo theme&quot;&#10;homepage = &quot;https://github.com/adityatelange/hugo-PaperMod/&quot;&#10;demosite = &quot;https://adityatelange.github.io/hugo-PaperMod/&quot;&#10;tags = [&#10;  &quot;responsive&quot;,&#10;  &quot;blog&quot;,&#10;  &quot;clean&quot;,&#10;  &quot;minimal&quot;,&#10;  &quot;light&quot;,&#10;  &quot;dark&quot;,&#10;  &quot;fast&quot;,&#10;  &quot;multilingual&quot;,&#10;  &quot;search&quot;,&#10;  &quot;seo&quot;,&#10;  &quot;chroma&quot;,&#10;  &quot;personal&quot;&#10;]&#10;features = [&#10;  &quot;responsive&quot;,&#10;  &quot;single-column&quot;,&#10;  &quot;blog&quot;,&#10;  &quot;cover-image&quot;,&#10;  &quot;table-of-contents&quot;,&#10;  &quot;opengraph&quot;,&#10;  &quot;twitter-cards&quot;,&#10;  &quot;favicon&quot;,&#10;  &quot;archive&quot;,&#10;  &quot;share-icons&quot;,&#10;  &quot;cover&quot;,&#10;  &quot;multilingual&quot;,&#10;  &quot;social-icons&quot;,&#10;  &quot;minified-assets&quot;,&#10;  &quot;theme-toggle&quot;,&#10;  &quot;menu-location-indicator&quot;,&#10;  &quot;scroll-to-top&quot;,&#10;  &quot;search&quot;,&#10;  &quot;breadcrumbs&quot;,&#10;  &quot;reading-time&quot;,&#10;  &quot;word-count&quot;,&#10;  &quot;code-copy&quot;,&#10;  &quot;comments&quot;,&#10;  &quot;edit-post&quot;,&#10;  &quot;canonical-link&quot;,&#10;  &quot;profile-mode&quot;,&#10;  &quot;home-info-mode&quot;,&#10;  &quot;related-posts&quot;,&#10;  &quot;rss&quot;,&#10;  &quot;multiple-authors&quot;,&#10;  &quot;post-nav-links&quot;&#10;]&#10;min_version = &quot;0.146.0&quot;&#10;&#10;[author]&#10;  name = &quot;Aditya Telange&quot;&#10;  homepage = &quot;https://github.com/adityatelange&quot;&#10;&#10;# If porting an existing theme&#10;[original]&#10;  name = &quot;Paper&quot;&#10;  author = &quot;nanxiaobei&quot;&#10;  homepage = &quot;https://github.com/nanxiaobei&quot;&#10;  repo = &quot;https://github.com/nanxiaobei/hugo-paper/&quot;&#10;" />
+              <option name="updateTime" value="1782203013773" />
+              <option name="uri" value="file://$PROJECT_DIR$/themes/PaperMod/theme.toml" />
+            </DocumentCache>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
